@@ -1,5 +1,8 @@
 # COURS DE SCIENCE DES DONNÉES
 ## El Baz Younes
+
+<img src="El baz Younes 22007219 CAC 2.png" style="height:464px;margin-right:432px"/>
+
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 ---
