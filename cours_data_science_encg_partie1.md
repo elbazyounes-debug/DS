@@ -121,7 +121,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 conda install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
-**Structure d'un projet Data Science :**
+**projet_data_science/ **
 
 ```
 projet_data_science/
