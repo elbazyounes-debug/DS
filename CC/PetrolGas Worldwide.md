@@ -93,4 +93,82 @@ Les histogrammes et boxplots ont révélé :
 - *Paved_Highways* → distribution très étalée  
 - *Petrol_Consumption* → distribution non normale, présence de valeurs extrêmes  
 
-Ces observations orientent la
+Ces observations orientent la modélisation vers des algorithmes robustes aux dispersions.
+
+---
+
+# **5. Analyse Statistique & Corrélations**
+
+Une matrice de corrélation a été produite.  
+
+### **Corrélations observées :**
+
+| Variable | Corrélation avec la consommation |
+|---------|----------------------------------|
+| Petrol_tax | ❌ Négative (augmentation taxe → baisse consommation) |
+| Average_income | Faible |
+| Paved_Highways | Très faible |
+| Population_Driver | Faible |
+
+👉 **La taxe sur le carburant est le facteur le plus déterminant.**
+
+---
+
+# **6. Modélisation et Prédiction**
+
+Un modèle de **régression linéaire simple** a été appliqué.
+
+### Étapes suivies :
+1. Séparation features (X) et cible (y)  
+2. Entraînement du modèle avec `LinearRegression()`  
+3. Prédiction sur l’ensemble  
+4. Calcul des métriques : R², MSE, RMSE  
+5. Visualisation “Valeurs réelles vs valeurs prédites”
+
+---
+
+# **7. Résultats des Modèles**
+
+### Performance du modèle linéaire :
+
+- **R² faible** → le modèle explique peu de variance  
+- **MSE élevé** → erreurs importantes  
+- **RMSE important** → grande distance entre valeurs réelles et prédictions  
+
+### Conclusion intermédiaire :
+La relation semble **non linéaire**, ce qui rend la régression linéaire peu adaptée.
+
+---
+
+# **8. Analyse, Interprétation & Recommandations**
+
+### Ce que montre l’analyse :
+- La taxe sur le carburant influence nettement la consommation  
+- Les autres variables ont un poids relativement faible  
+- Le modèle linéaire ne capture pas bien la complexité des données
+
+### Recommandations :
+1. Tester des modèles non linéaires (Random Forest, Decision Tree, Gradient Boosting)  
+2. Tenter des transformations :  
+   - logarithmes  
+   - standardisation  
+3. Créer de nouvelles variables (ex : income/tax)  
+4. Retirer ou traiter les outliers extrêmes  
+5. Collecter davantage de données pour affiner la granularité  
+
+---
+
+# **9. Conclusion**
+
+Cette étude a permis d’obtenir :
+
+✔ Une compréhension claire des facteurs influençant la consommation  
+✔ Une validation de l’impact de la taxe sur le carburant  
+✔ Un aperçu des limites de la régression linéaire  
+✔ Une base solide pour des modélisations plus avancées  
+
+Malgré les performances modestes du modèle, ce travail constitue une étape essentielle pour une analyse prédictive plus précise à l’avenir.
+
+---
+
+
