@@ -1,9 +1,3 @@
-# **MoMA Museum Collection (Dataset des œuvres d’art)**
-
-*(Analyse complète du dataset d'œuvres du Museum of Modern Art)*
-
----
-
 # **Compte Rendu**
 
 ## **Analyse du Dataset “MoMA Museum Collection – Artworks & Artists”**
