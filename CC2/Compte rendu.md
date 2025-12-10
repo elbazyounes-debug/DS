@@ -3,7 +3,6 @@
 ## **Analyse du Dataset “MoMA Museum Collection – Artworks & Artists”**
 
 **Date :** 26 Novembre 2025
-## Réalisé par :
 ## Younes El Baz
 ## 22007219
 ## CAC 2
