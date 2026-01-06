@@ -7,6 +7,7 @@
 ### 📘 Description du Projet
 
 Ce projet a pour objectif principal d'analyser le dataset "MoMA Museum Collection – Artworks & Artists", qui regroupe plus de **150 000 œuvres** du *Museum of Modern Art* de New York.
+
 Lien Data set: https://mavenanalytics.io/data-playground/the-museum-of-modern-art-(moma)-collection
 
 L’analyse vise à décrypter la structure, l'évolution et les caractéristiques de cette collection historique.
