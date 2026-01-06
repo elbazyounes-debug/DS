@@ -6,7 +6,7 @@
 ## Younes El Baz
 ## 22007219
 ## CAC 2
-<img src="Figures/El baz Younes 22007219 CAC 2 (1).png" style="height:264px;margin-right:264px"/> <img src="Figures/ENCG-S.png" style="height:264px;margin-right:264px"/>
+<img src="Figures/El baz Younes 22007219 CAC 2 (1).png" style="height:264px;margin-right:264px"/> <img src="Figures/ENCG-S.png" style="height:164px;margin-right:164px"/>
 ---
 # Lien video https://drive.google.com/file/d/1SppU2OmdQkK4G3dg0zDrjN2JGX5ZLy3s/view?usp=drive_link
 
