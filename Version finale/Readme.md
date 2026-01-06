@@ -2,8 +2,8 @@
 
 **Projet réalisé par :** Younes El Baz
 **Contexte :** Semestre 4 — Data Science / Machine Learning
-<img src="Figures/El baz Younes 22007219 CAC 2 (1).png" style="height:464px;margin-right:432px"/>
-
+<img src="Figures/El baz Younes 22007219 CAC 2 (1).png" style="height:264px;margin-right:264px"/> <img src="Figures/ENCG-S.png" style="height:264px;margin-right:264px"/>
+---
 ### 📘 Description du Projet
 
 Ce projet a pour objectif principal d'analyser le dataset "MoMA Museum Collection – Artworks & Artists", qui regroupe plus de **150 000 œuvres** du *Museum of Modern Art* de New York.
