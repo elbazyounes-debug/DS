@@ -6,9 +6,8 @@
 ## Younes El Baz
 ## 22007219
 ## CAC 2
-<img src="El baz Younes 22007219 CAC 2.png" style="height:464px;margin-right:432px"/>
+<img src="Version finale/Figures/ENCG-S.png" style="height:464px;margin-right:432px"/>
 ---
-
 # Lien video https://drive.google.com/file/d/1SppU2OmdQkK4G3dg0zDrjN2JGX5ZLy3s/view?usp=drive_link
 
 # **Table des Matières**
