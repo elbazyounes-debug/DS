@@ -2,7 +2,7 @@
 
 **Projet réalisé par :** Younes El Baz
 **Contexte :** Semestre 4 — Data Science / Machine Learning
-<img src="El baz Younes 22007219 CAC 2.png" style="height:464px;margin-right:432px"/>
+<img src="Figures/El baz Younes 22007219 CAC 2 (1).png" style="height:464px;margin-right:432px"/>
 
 ### 📘 Description du Projet
 
